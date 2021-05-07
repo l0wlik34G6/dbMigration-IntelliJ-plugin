@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.l0wlik34g6.dbmigrationintellijplugin.services
 
+import com.github.l0wlik34g6.dbmigrationintellijplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
